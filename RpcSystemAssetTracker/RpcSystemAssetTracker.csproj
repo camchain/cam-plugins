@@ -6,7 +6,7 @@
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Cam" Version="2.10.3" />
+    <PackageReference Include="Cam" Version="2.10.4" />
   </ItemGroup>
   <ItemGroup>
     <None Update="RpcSystemAssetTracker\config.json">

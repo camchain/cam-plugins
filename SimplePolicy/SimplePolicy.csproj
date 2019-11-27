@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Cam" Version="2.10.3" />
+    <PackageReference Include="Cam" Version="2.10.4" />
   </ItemGroup>
 
   <ItemGroup>
